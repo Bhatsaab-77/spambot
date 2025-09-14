@@ -1,0 +1,11 @@
+requests
+telebot
+aiohtt
+Flask
+Pillow
+pyTelegramBotAPI
+pyrofork
+Flask
+pymongo
+tgcrypto
+pillow
