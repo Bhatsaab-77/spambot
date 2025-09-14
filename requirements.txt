@@ -1,6 +1,6 @@
 requests
 telebot
-aiohtt
+aiohttp
 Flask
 Pillow
 pyTelegramBotAPI
